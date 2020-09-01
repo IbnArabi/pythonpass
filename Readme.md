@@ -7,3 +7,4 @@ this project was made using html css and python.
 username: Admin
 password: 2267922033
 	presonal 4 digit pin: 5790
+	recovery code: 990087
