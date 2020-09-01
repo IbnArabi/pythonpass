@@ -46,7 +46,7 @@ usernameLabel = tk.Label (window, text="Username:")
 usernameEntry = tk.Entry (window)
 #Password Box
 passwordLabel = tk.Label (window, text="Password:")
-passwordEntry = tk.Entry(window, show=".")
+passwordEntry = tk.Entry(window, show="*")
 
 #File editor
 button = tk.Button (window, text="Submit", command=checkPassword)
